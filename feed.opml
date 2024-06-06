@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Exemplo OPML</title>
+  </head>
+  <body>
+    <outline text="OpenAI Blogs" title="OpenAI Blogs" type="rss" xmlUrl="https://openai.com/blog/rss/" htmlUrl="https://openai.com/blog"/>
+    <outline text="Python.org" title="Python.org" type="rss" xmlUrl="https://blog.python.org/feeds/posts/default" htmlUrl="https://blog.python.org"/>
+    <outline text="BBC News" title="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="http://www.bbc.co.uk/news"/>
+  </body>
+</opml>
